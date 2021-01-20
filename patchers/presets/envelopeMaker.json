@@ -1,0 +1,26 @@
+{
+	"pattrstorage" : 	{
+		"name" : "envelopeMaker",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "defaultSettings",
+				"data" : 				{
+					"dbOffThreshold" : [ -20.0 ],
+					"decayMode" : [ 0 ],
+					"envOffThreshold" : [ 0.33 ],
+					"envTailTime" : [ 100 ],
+					"envelopeThreshold" : [ 0.56 ],
+					"mp.duplicate_buffer::bitDepth[1]" : [ 4 ],
+					"mp.duplicate_buffer::fileType" : [ 0 ],
+					"mp.duplicate_buffer::normalize" : [ 1.0 ],
+					"mp.duplicate_buffer::processTheBuffer" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

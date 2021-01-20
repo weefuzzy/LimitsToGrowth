@@ -1,0 +1,107 @@
+{
+	"pattrstorage" : 	{
+		"name" : "fileScore",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "all",
+				"data" : 				{
+					"mp.functionMaker[2]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.0, 0, 1000.0, 0.0, 0, "linear" ],
+					"mp.functionMaker[2]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[2]::lowRange[1]" : [ 0.0 ],
+					"mp.functionMaker[3]::function" : [ 1000.0, 0.0, 1.0, 0.0, 1.0, 0, 1000.0, 1.0, 0, "linear" ],
+					"mp.functionMaker[3]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[3]::lowRange[1]" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "first",
+				"data" : 				{
+					"mp.functionMaker[2]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.0, 0, 1000.0, 0.0, 0, "linear" ],
+					"mp.functionMaker[2]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[2]::lowRange[1]" : [ 0.0 ],
+					"mp.functionMaker[3]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.0, 0, 1000.0, 0.0, 0, "linear" ],
+					"mp.functionMaker[3]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[3]::lowRange[1]" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "old",
+				"data" : 				{
+					"mp.functionMaker[2]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.0, 0, 1000.0, 0.0, 0, "linear" ],
+					"mp.functionMaker[2]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[2]::lowRange[1]" : [ 0.0 ],
+					"mp.functionMaker[3]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.1, 0, 1000.0, 0.1, 0, "linear" ],
+					"mp.functionMaker[3]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[3]::lowRange[1]" : [ 0.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "recent",
+				"data" : 				{
+					"mp.functionMaker[2]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.9, 0, 1000.0, 0.9, 0, "linear" ],
+					"mp.functionMaker[2]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[2]::lowRange[1]" : [ 0.0 ],
+					"mp.functionMaker[3]::function" : [ 1000.0, 0.0, 1.0, 0.0, 1.0, 0, 1000.0, 1.0, 0, "linear" ],
+					"mp.functionMaker[3]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[3]::lowRange[1]" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "recentish",
+				"data" : 				{
+					"mp.functionMaker[2]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.75, 0, 1000.0, 0.75, 0, "linear" ],
+					"mp.functionMaker[2]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[2]::lowRange[1]" : [ 0.0 ],
+					"mp.functionMaker[3]::function" : [ 1000.0, 0.0, 1.0, 0.0, 1.0, 0, 1000.0, 1.0, 0, "linear" ],
+					"mp.functionMaker[3]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[3]::lowRange[1]" : [ 0.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "reallyNew",
+				"data" : 				{
+					"mp.functionMaker[2]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.99, 0, 1000.0, 0.99, 0, "linear" ],
+					"mp.functionMaker[2]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[2]::lowRange[1]" : [ 0.0 ],
+					"mp.functionMaker[3]::function" : [ 1000.0, 0.0, 1.0, 0.0, 1.0, 0, 1000.0, 1.0, 0, "linear" ],
+					"mp.functionMaker[3]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[3]::lowRange[1]" : [ 0.0 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"name" : "movingMiddle",
+				"data" : 				{
+					"mp.functionMaker[2]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.55, 0, 1000.0, 0.55, 0, "linear" ],
+					"mp.functionMaker[2]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[2]::lowRange[1]" : [ 0.0 ],
+					"mp.functionMaker[3]::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.45, 0, 1000.0, 0.45, 0, "linear" ],
+					"mp.functionMaker[3]::highRange[1]" : [ 1.0 ],
+					"mp.functionMaker[3]::lowRange[1]" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

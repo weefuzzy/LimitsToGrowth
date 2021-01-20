@@ -1,0 +1,45 @@
+{
+	"pattrstorage" : 	{
+		"name" : "patternsScore",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "2 1 1 2",
+				"data" : 				{
+					"pattern" : [ 2, 1, 1, 2 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "5 3",
+				"data" : 				{
+					"pattern" : [ 5, 3 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "4 2 2 1",
+				"data" : 				{
+					"pattern" : [ 4, 2, 1, 1 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "13 1",
+				"data" : 				{
+					"pattern" : [ 13, 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

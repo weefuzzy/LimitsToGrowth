@@ -1,0 +1,109 @@
+{
+	"pattrstorage" : 	{
+		"name" : "playbackScore",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "straight",
+				"data" : 				{
+					"mp.functionMaker::function" : [ 1000.0, 0.0, 1.0, 1.984127, 0.026667, 0, 1000.0, 1.066667, 0, "linear" ],
+					"mp.functionMaker::highRange" : [  ],
+					"mp.functionMaker::lowRange" : [  ],
+					"mp.functionMaker[1]::function" : [ 1000.0, 20.0, 1.0, 0.0, 1.0, 0, 1000.0, 14938.400390999999217, 0, "linear" ],
+					"mp.functionMaker[1]::highRange" : [  ],
+					"mp.functionMaker[1]::lowRange" : [  ],
+					"mp.functionMaker[2]::function" : [  ],
+					"mp.functionMaker[2]::highRange" : [  ],
+					"mp.functionMaker[2]::lowRange" : [  ],
+					"mp.functionMaker[3]::function" : [  ],
+					"mp.functionMaker[3]::highRange" : [  ],
+					"mp.functionMaker[3]::lowRange" : [  ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "backForth",
+				"data" : 				{
+					"mp.functionMaker::function" : [ 1000.0, 0.0, 1.0, 1.984127, 0.026667, 0, 192.460311999999988, 0.493333, 0, 478.174591000000021, 0.8, 0, 728.174621999999999, 0.533333, 0, 1000.0, 0.0, 0, "linear" ],
+					"mp.functionMaker::highRange" : [  ],
+					"mp.functionMaker::lowRange" : [  ],
+					"mp.functionMaker[1]::function" : [ 1000.0, 20.0, 1.0, 0.0, 1.0, 0, 1000.0, 1.0, 0, "linear" ],
+					"mp.functionMaker[1]::highRange" : [  ],
+					"mp.functionMaker[1]::lowRange" : [  ],
+					"mp.functionMaker[2]::function" : [  ],
+					"mp.functionMaker[2]::highRange" : [  ],
+					"mp.functionMaker[2]::lowRange" : [  ],
+					"mp.functionMaker[3]::function" : [  ],
+					"mp.functionMaker[3]::highRange" : [  ],
+					"mp.functionMaker[3]::lowRange" : [  ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "backwards",
+				"data" : 				{
+					"mp.functionMaker::function" : [ 1000.0, 0.0, 1.0, 0.0, 1.0, 0, 1000.0, 0.0, 0, "linear" ],
+					"mp.functionMaker::highRange" : [  ],
+					"mp.functionMaker::lowRange" : [  ],
+					"mp.functionMaker[1]::function" : [ 1000.0, 20.0, 1.0, 0.0, 1.0, 0, 1000.0, 1.0, 0, "linear" ],
+					"mp.functionMaker[1]::highRange" : [  ],
+					"mp.functionMaker[1]::lowRange" : [  ],
+					"mp.functionMaker[2]::function" : [  ],
+					"mp.functionMaker[2]::highRange" : [  ],
+					"mp.functionMaker[2]::lowRange" : [  ],
+					"mp.functionMaker[3]::function" : [  ],
+					"mp.functionMaker[3]::highRange" : [  ],
+					"mp.functionMaker[3]::lowRange" : [  ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "slowbandpass",
+				"data" : 				{
+					"mp.functionMaker::function" : [ 1000.0, 0.0, 1.0, 0.0, 0.0, 0, 1000.0, 0.226667, 0, "linear" ],
+					"mp.functionMaker::highRange" : [  ],
+					"mp.functionMaker::lowRange" : [  ],
+					"mp.functionMaker[1]::function" : [ 1000.0, 20.0, 0.5, 0.0, 0.5, 0, 1000.0, 0.5, 0, "linear" ],
+					"mp.functionMaker[1]::highRange" : [  ],
+					"mp.functionMaker[1]::lowRange" : [  ],
+					"mp.functionMaker[2]::function" : [  ],
+					"mp.functionMaker[2]::highRange" : [  ],
+					"mp.functionMaker[2]::lowRange" : [  ],
+					"mp.functionMaker[3]::function" : [  ],
+					"mp.functionMaker[3]::highRange" : [  ],
+					"mp.functionMaker[3]::lowRange" : [  ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "fastbandpass",
+				"data" : 				{
+					"mp.functionMaker::function" : [ 1000.0, 0.0, 4.0, 0.0, 0.0, 0, 1000.0, 4.0, 0, "linear" ],
+					"mp.functionMaker::highRange" : [  ],
+					"mp.functionMaker::lowRange" : [  ],
+					"mp.functionMaker[1]::function" : [ 1000.0, 20.0, 0.5, 0.0, 0.5, 0, 1000.0, 0.5, 0, "linear" ],
+					"mp.functionMaker[1]::highRange" : [  ],
+					"mp.functionMaker[1]::lowRange" : [  ],
+					"mp.functionMaker[2]::function" : [  ],
+					"mp.functionMaker[2]::highRange" : [  ],
+					"mp.functionMaker[2]::lowRange" : [  ],
+					"mp.functionMaker[3]::function" : [  ],
+					"mp.functionMaker[3]::highRange" : [  ],
+					"mp.functionMaker[3]::lowRange" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,79 @@
+{
+	"pattrstorage" : 	{
+		"name" : "rateScore",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "QuickShort",
+				"data" : 				{
+					"dur" : [ 0 ],
+					"rate" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "QuickOverlap2",
+				"data" : 				{
+					"dur" : [ 1 ],
+					"rate" : [ 0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Medium",
+				"data" : 				{
+					"dur" : [ 1 ],
+					"rate" : [ 2 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "MediumOverlap",
+				"data" : 				{
+					"dur" : [ 3 ],
+					"rate" : [ 2 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "SlowShort",
+				"data" : 				{
+					"dur" : [ 1 ],
+					"rate" : [ 3 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "PonderousOverlap",
+				"data" : 				{
+					"dur" : [ 5 ],
+					"rate" : [ 4 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"name" : "PonderousNeat",
+				"data" : 				{
+					"dur" : [ 4 ],
+					"rate" : [ 4 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

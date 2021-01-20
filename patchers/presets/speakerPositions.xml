@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><ambiscore>
+	<snapshot index="1">
+		<point>
+			<number>1</number>
+			<xyz>-0.758095 0.249524 0.000000</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>0.573333 0.266667 0.000000</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="0">
+		<point>
+			<number>1</number>
+			<xyz>-0.758095 0.249524 0.000000</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>0.573333 0.266667 0.000000</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="2">
+		<point>
+			<number>1</number>
+			<xyz>-0.078095 0.876190 0.000000</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>0.053333 -0.760000 0.000000</xyz>
+		</point>
+	</snapshot>
+</ambiscore>

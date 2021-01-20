@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><ambiscore>
+	<snapshot index="1">
+		<point>
+			<number>1</number>
+			<xyz>-0.417619 0.465714 0.000000</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>0.497619 0.423810 0.000000</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.442381 -0.275238 0.000000</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.357619 -0.294286 0.000000</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="0">
+		<point>
+			<number>1</number>
+			<xyz>-0.417619 0.465714 0.000000</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>0.497619 0.423810 0.000000</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.442381 -0.275238 0.000000</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.357619 -0.294286 0.000000</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="2">
+		<point>
+			<number>1</number>
+			<xyz>-0.417619 0.465714 0.000000</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>0.497619 0.423810 0.000000</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.442381 -0.275238 0.000000</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.357619 -0.294286 0.000000</xyz>
+		</point>
+	</snapshot>
+</ambiscore>
